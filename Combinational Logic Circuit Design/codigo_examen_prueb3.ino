@@ -1,5 +1,4 @@
 //  Electronica Digital II
-//  Examen Medio Curso
 //  Jair Medina 
 //  Num. Lista 15 
 //  Matriculas

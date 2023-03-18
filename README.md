@@ -11,6 +11,7 @@ I have built several circuits with different configurations to develop electroni
 2. Extracted information from Electronics datasheet.
 3. Engineered functional block diagrams to design in PROTEUS schematics.
 
+
 Examples of projects I've worked in.
 
 <p align="center">

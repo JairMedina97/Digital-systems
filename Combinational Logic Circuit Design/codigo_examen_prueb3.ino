@@ -1,9 +1,9 @@
 //  Electronica Digital II
 //  Examen Medio Curso
-//  Jair Medina & Sandra Villarreal
-//  Num. Lista 15 & 31
+//  Jair Medina 
+//  Num. Lista 15 
 //  Matriculas
-//  1792351 & 1856057
+//  1792351 
 
 
 #define in_A 8 // Entrada 1XX

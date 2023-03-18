@@ -5,6 +5,11 @@ Some files in folders are present in .txt files as a code symbolic representaito
 
 I have built several circuits with different configurations to develop electronics skills.
 
+Tools and software mastered in Digital electronics class are the following
+-Reviewed and interpreted Integrated circuits to execute the optimal design.
+-Extracted information from Electronics datasheet.
+-Engineered functional block diagrams to design in PROTEUS schematics.
+
 Examples of projects I've worked in.
 
 <p align="center">

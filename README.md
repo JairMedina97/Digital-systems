@@ -21,7 +21,7 @@ Examples of projects I've worked in.
 <img src="Images/schematic.PNG" width="400" > 
 <img src="Images/Mealy_State.PNG" width="400" > 
 <img src="Images/PROTEUS.PNG" width="700" > 
-<img src="Images/Stepper.jpeg" width="400" > 
-<img src="Images/PWM.jpeg" width="400" > 
+<img src="Images/Stepper.jpeg" width="300" > 
+<img src="Images/PWM.jpeg" width="300" > 
 <img src="Images/ADC.jpeg" width="200" >
 </p>
